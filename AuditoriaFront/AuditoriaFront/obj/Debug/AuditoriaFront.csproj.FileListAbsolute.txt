@@ -1,0 +1,30 @@
+C:\Users\darow\Documents\GitHub\AuditoriaSQLSever\AuditoriaFront\AuditoriaFront\bin\Debug\AuditoriaFront.exe.config
+C:\Users\darow\Documents\GitHub\AuditoriaSQLSever\AuditoriaFront\AuditoriaFront\bin\Debug\AuditoriaFront.exe
+C:\Users\darow\Documents\GitHub\AuditoriaSQLSever\AuditoriaFront\AuditoriaFront\bin\Debug\AuditoriaFront.pdb
+C:\Users\darow\Documents\GitHub\AuditoriaSQLSever\AuditoriaFront\AuditoriaFront\obj\Debug\AuditoriaFront.csprojAssemblyReference.cache
+C:\Users\darow\Documents\GitHub\AuditoriaSQLSever\AuditoriaFront\AuditoriaFront\obj\Debug\AuditoriaFront.Form1.resources
+C:\Users\darow\Documents\GitHub\AuditoriaSQLSever\AuditoriaFront\AuditoriaFront\obj\Debug\AuditoriaFront.Properties.Resources.resources
+C:\Users\darow\Documents\GitHub\AuditoriaSQLSever\AuditoriaFront\AuditoriaFront\obj\Debug\AuditoriaFront.csproj.GenerateResource.cache
+C:\Users\darow\Documents\GitHub\AuditoriaSQLSever\AuditoriaFront\AuditoriaFront\obj\Debug\AuditoriaFront.csproj.CoreCompileInputs.cache
+C:\Users\darow\Documents\GitHub\AuditoriaSQLSever\AuditoriaFront\AuditoriaFront\obj\Debug\AuditoriaFront.exe
+C:\Users\darow\Documents\GitHub\AuditoriaSQLSever\AuditoriaFront\AuditoriaFront\obj\Debug\AuditoriaFront.pdb
+C:\Users\darow\Documents\Visual Studio 2017\Projects\AuditoriaSQLSever\AuditoriaFront\AuditoriaFront\bin\Debug\AuditoriaFront.exe.config
+C:\Users\darow\Documents\Visual Studio 2017\Projects\AuditoriaSQLSever\AuditoriaFront\AuditoriaFront\bin\Debug\AuditoriaFront.exe
+C:\Users\darow\Documents\Visual Studio 2017\Projects\AuditoriaSQLSever\AuditoriaFront\AuditoriaFront\bin\Debug\AuditoriaFront.pdb
+C:\Users\darow\Documents\Visual Studio 2017\Projects\AuditoriaSQLSever\AuditoriaFront\AuditoriaFront\obj\Debug\AuditoriaFront.csprojAssemblyReference.cache
+C:\Users\darow\Documents\Visual Studio 2017\Projects\AuditoriaSQLSever\AuditoriaFront\AuditoriaFront\obj\Debug\AuditoriaFront.Form1.resources
+C:\Users\darow\Documents\Visual Studio 2017\Projects\AuditoriaSQLSever\AuditoriaFront\AuditoriaFront\obj\Debug\AuditoriaFront.Properties.Resources.resources
+C:\Users\darow\Documents\Visual Studio 2017\Projects\AuditoriaSQLSever\AuditoriaFront\AuditoriaFront\obj\Debug\AuditoriaFront.csproj.GenerateResource.cache
+C:\Users\darow\Documents\Visual Studio 2017\Projects\AuditoriaSQLSever\AuditoriaFront\AuditoriaFront\obj\Debug\AuditoriaFront.csproj.CoreCompileInputs.cache
+C:\Users\darow\Documents\Visual Studio 2017\Projects\AuditoriaSQLSever\AuditoriaFront\AuditoriaFront\obj\Debug\AuditoriaFront.exe
+C:\Users\darow\Documents\Visual Studio 2017\Projects\AuditoriaSQLSever\AuditoriaFront\AuditoriaFront\obj\Debug\AuditoriaFront.pdb
+C:\Users\Grupo5\Desktop\AuditoriaSQLSever2\AuditoriaSQLSever\AuditoriaFront\AuditoriaFront\bin\Debug\AuditoriaFront.exe.config
+C:\Users\Grupo5\Desktop\AuditoriaSQLSever2\AuditoriaSQLSever\AuditoriaFront\AuditoriaFront\bin\Debug\AuditoriaFront.exe
+C:\Users\Grupo5\Desktop\AuditoriaSQLSever2\AuditoriaSQLSever\AuditoriaFront\AuditoriaFront\bin\Debug\AuditoriaFront.pdb
+C:\Users\Grupo5\Desktop\AuditoriaSQLSever2\AuditoriaSQLSever\AuditoriaFront\AuditoriaFront\obj\Debug\AuditoriaFront.csprojAssemblyReference.cache
+C:\Users\Grupo5\Desktop\AuditoriaSQLSever2\AuditoriaSQLSever\AuditoriaFront\AuditoriaFront\obj\Debug\AuditoriaFront.Form1.resources
+C:\Users\Grupo5\Desktop\AuditoriaSQLSever2\AuditoriaSQLSever\AuditoriaFront\AuditoriaFront\obj\Debug\AuditoriaFront.Properties.Resources.resources
+C:\Users\Grupo5\Desktop\AuditoriaSQLSever2\AuditoriaSQLSever\AuditoriaFront\AuditoriaFront\obj\Debug\AuditoriaFront.csproj.GenerateResource.cache
+C:\Users\Grupo5\Desktop\AuditoriaSQLSever2\AuditoriaSQLSever\AuditoriaFront\AuditoriaFront\obj\Debug\AuditoriaFront.csproj.CoreCompileInputs.cache
+C:\Users\Grupo5\Desktop\AuditoriaSQLSever2\AuditoriaSQLSever\AuditoriaFront\AuditoriaFront\obj\Debug\AuditoriaFront.exe
+C:\Users\Grupo5\Desktop\AuditoriaSQLSever2\AuditoriaSQLSever\AuditoriaFront\AuditoriaFront\obj\Debug\AuditoriaFront.pdb
